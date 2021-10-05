@@ -2,6 +2,7 @@
 Online Portfolio and proficiency showcase for: 
 - ReactJS
 - VueJS w/ json / API driven
+- VueJS w/ NuxtJS and content
 - BootStrap
 - HTML5
 - CSS3
