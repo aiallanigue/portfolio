@@ -6,6 +6,7 @@ Online Portfolio and proficiency showcase for:
 - BootStrap
 - HTML5
 - CSS3
+- Material Design
 
 ![exercise1-desktop](https://user-images.githubusercontent.com/8859222/136031705-19118e9a-2229-4619-9337-fb96be8d9cb7.png)
 ![exercise1-mobile](https://user-images.githubusercontent.com/8859222/136031714-95b0da57-7f20-4630-a492-b819ab4521d9.png)
