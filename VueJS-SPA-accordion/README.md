@@ -1,5 +1,3 @@
-# Filta Exam
-Front End Assessment for Filta
 
 # Exercise 1
 ![filta-exercise1-desktop](https://user-images.githubusercontent.com/8859222/133072392-828193dd-6515-4adf-9e73-1c227dc196f8.png)
