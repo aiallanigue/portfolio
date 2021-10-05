@@ -1,6 +1,6 @@
 # exercise1
 
-> Exercise 1 - Front End Assessment for Filta
+> Exercise 1 - Single Page Application template
 
 ## Build Setup
 
