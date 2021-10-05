@@ -1,3 +1,6 @@
+![spa-1](https://user-images.githubusercontent.com/8859222/136028858-73178808-e231-4c35-9d23-4ae05cbe46b5.png)
+
+
 # exercise1
 
 > Exercise 1 - Single Page Application template
