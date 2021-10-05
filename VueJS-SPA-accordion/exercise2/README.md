@@ -1,6 +1,9 @@
+
+https://user-images.githubusercontent.com/8859222/136029637-3f3635c0-8a77-4a07-8c24-fb00e474325a.mp4
+
 # exercise2
 
-> Exercise 2 - Front End Assessment for Filta
+> Exercise 2 - Accordion library for VueJS
 
 ## Build Setup
 
