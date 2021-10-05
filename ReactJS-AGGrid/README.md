@@ -1,3 +1,5 @@
+![react-aggrid](https://user-images.githubusercontent.com/8859222/136024072-674ad71d-983d-446b-90f7-7bb2eccc7952.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
